@@ -1,6 +1,6 @@
 {
     "name": "BigQuotaOperation",
-    "version_number": "1.1.1",
+    "version_number": "1.2.0",
     "website_url": "https://discord.gg/SDY8KZ6g3P",
     "description": "More challange, more fun, more horror... And bug fixes.",
     "dependencies": [
@@ -10,6 +10,7 @@
         "AllToasters-SpectateEnemies-2.6.0",
         "AtomicStudio-Atomics_Cosmetics-1.2.1",
         "AtomicStudio-Atomics_Suits-1.0.3",
+        "AtomicStudio-Moved_Magnet_Switch-1.2.0",
         "anormaltwig-LateCompany-1.0.18",
         "BepInEx-BepInExPack-5.4.2100",
         "BGN-PizzaTowerEscapeMusic-2.4.0",

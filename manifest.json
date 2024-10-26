@@ -1,6 +1,6 @@
 {
     "name": "BigQuotaOperation",
-    "version_number": "1.2.0",
+    "version_number": "1.2.1",
     "website_url": "https://discord.gg/SDY8KZ6g3P",
     "description": "More challange, more fun, more horror... And bug fixes.",
     "dependencies": [
@@ -76,7 +76,7 @@
         "Plastered_Crab-Black_Mesa_Half_Life_Moon_Interior-2.0.1",
         "PopleZoo-BetterItemScan-3.0.2",
         "Protogens-Furry_Tails-1.1.0",
-        "qwbarch-Mirage-1.11.0",
+        "qwbarch-Mirage-1.11.1",
         "qwbarch-MirageCore-1.0.1",
         "qwbarch-NAudioLame-2.1.1",
         "readthisifbad-SnatchinBracken-1.5.1",

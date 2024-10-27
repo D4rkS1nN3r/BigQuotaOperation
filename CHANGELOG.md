@@ -12,7 +12,7 @@
 	- Loadstone
 
 - Removed mods:
-	- Arachnophilia
+	- Arachnophilia (Caused a bug that made it impossible to play online)
 
 - Config changes:
 	- Decreased max price of Hoarding Bug: 90 -> 65

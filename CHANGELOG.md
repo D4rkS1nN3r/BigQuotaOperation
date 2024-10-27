@@ -1,3 +1,26 @@
+## 1.2.1
+- Updated mods:
+	- Atomics_Cosmetics
+	- Generic_Interiors
+	- Generic_Moons
+	- Mirage
+
+- Added mods:
+	- CleanerLogs
+	- DissonanceLagFix
+	- FixRPCLag
+	- Loadstone
+
+- Removed mods:
+	- Arachnophilia
+
+- Config changes:
+	- Decreased max price of Hoarding Bug: 90 -> 65
+	- Decreased min price of Hoarding Bug: 55 -> 40
+	- Decreased weight of Hoarding Bug Bodies: 1.48 -> 1.25
+	- Configured moon and interior matching for Black Mesa and Xen
+	- Another minor reconfig
+
 ## 1.2.0
 - Updated mods:
 	- BetterEXP

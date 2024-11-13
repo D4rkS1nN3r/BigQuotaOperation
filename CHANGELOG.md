@@ -1,8 +1,30 @@
+## 1.2.2
+- Updated mods:
+	- Atomics Cosmetics
+	- Generic Interiors
+	- Generic Moons
+	- ImmersiveScrap
+	- JLL
+	- Loadstone
+	- Matty Fixes Experimental
+	- Mirage
+	- MoreCompany
+	- More Suits
+	- MrovLib
+	- TooManyEmotes
+	- Zombies
+
+- Removed mods:
+	- MetalRecharging (caused a bug with easter egg, lightning and Old Bird's rocket)
+
+- Config changes:
+	- Fixed Black Mesa Interior generation on Black Mesa Moon
+
 ## 1.2.1
 - Updated mods:
-	- Atomics_Cosmetics
-	- Generic_Interiors
-	- Generic_Moons
+	- Atomics Cosmetics
+	- Generic Interiors
+	- Generic Moons
 	- Mirage
 
 - Added mods:
@@ -27,10 +49,10 @@
 	- CullFactory
 	- FairAI
 	- LethalSettings
-	- Matty_Fixes_Experimental
+	- Matty Fixes Experimental
 	- Mirage
 	- MoreCompany
-	- More_Suits
+	- More Suits
 	- MrovLib
 	- NoMoreCompanyLogo
 	- ReservedItemSlotCore
@@ -40,29 +62,29 @@
 
 - Added mods:
 	- Arachnophilia
-	- Atomics_Cosmetics
-	- Atomics_Suits
+	- Atomics Cosmetics
+	- Atomics Suits
 	- BetterItemScan
-	- Black_Mesa_Half_Life_Moon_Interior
-	- BlackMesa_HEV_Suit
+	- Black Mesa Half Life Moon Interior
+	- BlackMesa HEV Suit
 	- EnemySoundFixes
-	- Generic_Interiors
-	- Generic_Moons
+	- Generic Interiors
+	- Generic Moons
 	- ImmersiveScrap
 	- JLL
 	- LethalLevelLoader
 	- LethalModDataLib
 	- LETHALRESONANCE
-	- LETHAL_RESONANCE_MELTDOWN
+	- LETHAL RESONANCE MELTDOWN
 	- loaforcsSoundAPI
-	- men_stalker
-	- Moved_Magnet_Switch
+	- men stalker
+	- Moved Magnet Switch
 	- PizzaTowerEscapeMusic
 	- SimpleCompany
 	- StarlancerAIFix
 	- UsualScrap
-	- Xen_Interior
-	- Xen_Moon
+	- Xen Interior
+	- Xen Moon
 
 - Removed mods:
 	- CreepySoundPack

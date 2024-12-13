@@ -1,8 +1,15 @@
+## 1.1.1
+- [BQO Core](https://thunderstore.io/c/lethal-company/p/RebelSqu4d/BQO_Core/) modpack version updated (I forget about it in version 1.1.0).
+
+- Updated mods:
+    - Wider Ship Mod
+
 ## 1.1.0
-<b>Need a clean installation!</b>
+<b>Needed a clean installation!</b>
 
 - Updated mods:
     - LethalLib
+    
 - Mods moved from [BQO Core](https://thunderstore.io/c/lethal-company/p/RebelSqu4d/BQO_Core/) modpack:
     - FasterItemDropship
     - FireExitFlip

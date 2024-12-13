@@ -21,6 +21,7 @@ The modpack adds new mechanics and features:
 |[Atomics Cosmetics](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Cosmetics/)              |Adds new cosmetics via the MoreCompany mod                                                     |AtomicStudio    |
 |[Atomics Suits](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Suits/)                      |Adds some suits                                                                                |AtomicStudio    |
 |[DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/)                   |Disables the ability for dead players to vote to make the ship leave                           |KoogeesMods     |
+|[Celestial Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/)                	      |Adds new visuals when in orbit                                                                 |sfDesat         |
 |[FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)                     |If the apparatus is removed, the self-destruct system is activated                             |loaforc         |
 |[FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)                                        |Mines and turrets react to enemies                                                             |TheFluff        |
 |[FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)                |Makes the Item Dropship arrive and leave faster                                                |FlipMods        |
@@ -90,6 +91,7 @@ The modpack adds new mechanics and features:
 |[Atomics Cosmetics](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Cosmetics/)              |Добавляет новую косметику в MoreCompany                                                        |AtomicStudio    |
 |[Atomics Suits](https://thunderstore.io/c/lethal-company/p/AtomicStudio/Atomics_Suits/)                      |Добавляет несколько костюмов                                                                   |AtomicStudio    |
 |[DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/)                   |Отключает возможность голосования за преждевременный отлёт корабля у погибших игроков          |KoogeesMods     |
+|[Celestial Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/)                	      |Добавляет новые визуальные эффекты на орбите                                                   |sfDesat         |
 |[FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)                     |Если извлечь аппарат, активируется система самоуничтожения                                     |loaforc         |
 |[FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)                                        |Мины и турели реагируют на противников                                                         |TheFluff        |
 |[FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)                |Делает доставку купленных предметов быстрее                                                    |FlipMods        |
@@ -114,7 +116,7 @@ The modpack adds new mechanics and features:
 |[SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)                                 |Плагин, сохраняющий последний использованный костюм                                            |Hexnet111       |
 |[TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)                          |Добавляет новые эмоции, которые можно купить в магазине                                        |FlipMods        |
 |[Touchscreen](https://thunderstore.io/c/lethal-company/p/TheDeadSnake/Touchscreen/)                          |Позволяет взаимодействовать с экраном монитора делая его сенсорным                             |TheDeadSnake    |
-|[Wider Ship Mod](https://thunderstore.io/c/lethal-company/p/mborsh/Wider_Ship_Mod/)                          |Делает корабль шире                                                                            |mborsh          |
+|[Wider Ship Mod](https://thunderstore.io/c/lethal-company/p/mborsh/Wider_Ship_Mod/)                          |Расширяет площадь корабля                                                                      |mborsh          |
 
 <h2>Другие сборки</h2>
 <br>

@@ -1,3 +1,11 @@
+## 1.3.1
+- [BQO Vanilla Extended](https://thunderstore.io/c/lethal-company/p/RebelSqu4d/BQO_Vanilla_Extended/) modpack updated
+
+- Added mods as a dependency:
+	- FacilityMeltdown
+	- LobbyCompatibility
+	- PizzaTowerEscapeMusic
+
 ## 1.3.0
 <b>Needed a clean installation!</b>
 
@@ -6,6 +14,7 @@
 	- Xen Interior
 	- Xen Moon
 	- YippeeMod
+	
 - Config changes:
 	- Decreased the price of all enemy bodies
 

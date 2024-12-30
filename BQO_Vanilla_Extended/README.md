@@ -14,6 +14,8 @@ The modpack adds new mechanics and features:
 		<li>Added new emotes.</li>
 </ul>
 
+Included [BQO Core](https://thunderstore.io/c/lethal-company/p/RebelSqu4d/BQO_Core/) modpack.
+
 <h2>Modlist</h2>
 
 |Mod                                                                                                          |Description                                                                                    |Author          |
@@ -27,7 +29,6 @@ The modpack adds new mechanics and features:
 |[FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)                |Makes the Item Dropship arrive and leave faster                                                |FlipMods        |
 |[FireExitFlip](https://thunderstore.io/c/lethal-company/p/PC/FireExitFlip/)                                  |When entering through fire exit this makes you turn away from the door                         |PC              |
 |[HEV Suit](https://thunderstore.io/c/lethal-company/p/Dunn/HEV_Suit/)                                        |Adds HEV Suit from Half Life 1                                                                 |Dunn            |
-|[HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)                    |Hide player names                                                                              |Monkeytype      |
 |[Hold Scan Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)                |Allows you to hold the scan button to continuously keep scanning                               |FutureSavior    |
 |[LethalRadiation](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)                     |Adds repercussions for removing the apparatus. Including: damage every hour, and screen blur   |gamehog44       |
 |[Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)                            |A collection of Fixes for the vanilla game, with focus on vanilla compatibility                |mattymatty      |
@@ -84,6 +85,8 @@ The modpack adds new mechanics and features:
 		<li>Добавлены новые эмоции.</li>
 </ul>
 
+Содержит сборку [BQO Core](https://thunderstore.io/c/lethal-company/p/RebelSqu4d/BQO_Core/).
+
 <h2>Список модов</h2>
 
 |Мод                                                                                                          |Описание                                                                                       |Автор           |
@@ -97,7 +100,6 @@ The modpack adds new mechanics and features:
 |[FasterItemDropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)                |Делает доставку купленных предметов быстрее                                                    |FlipMods        |
 |[FireExitFlip](https://thunderstore.io/c/lethal-company/p/PC/FireExitFlip/)                                  |Разворачивает вас от двери при входе через пожарную дверь                                      |PC              |
 |[HEV Suit](https://thunderstore.io/c/lethal-company/p/Dunn/HEV_Suit/)                                        |Добавляет HEV костюм из Half Life 1                                                            |Dunn            |
-|[HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)                    |Скрывает ники игроков                                                                          |Monkeytype      |
 |[Hold Scan Button](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)                |Позволяет использовать сканер удерживая `ПКМ`                                                  |FutureSavior    |
 |[LethalRadiation](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/)                     |Добавляет последствия при извлечении аппарата. Такие, как урон и размытый экран                |gamehog44       |
 |[Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)                            |Сборник исправлений для ванильной игры с упором на совместимость с ванильной версией           |mattymatty      |

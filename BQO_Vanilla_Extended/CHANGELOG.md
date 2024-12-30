@@ -1,3 +1,21 @@
+## 1.2.0
+- [BQO Core](https://thunderstore.io/c/lethal-company/p/RebelSqu4d/BQO_Core/) modpack version updated.
+
+- Updated mods:
+    - FairAI
+    - OrbitRecharge
+    - ReservedItemSlotCore
+    - TooManyEmotes
+
+- Added mods:
+    - FairBirds
+    - FairGiants
+    - LCAmmoCheck
+    - VentSpawnFix
+
+- Removed mods:
+    - HidePlayerNames
+
 ## 1.1.1
 - [BQO Core](https://thunderstore.io/c/lethal-company/p/RebelSqu4d/BQO_Core/) modpack version updated (I forget about it in version 1.1.0).
 

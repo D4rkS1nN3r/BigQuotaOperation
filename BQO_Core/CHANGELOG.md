@@ -1,3 +1,13 @@
+## 1.2.0
+- Updated mods:
+    - CullFactory
+    - EnemySoundFixes
+    - Loadstone
+    - MrovLib
+
+- Added mods:
+    - Boombox Sync Fix
+
 ## 1.1.0
 <b>Need a clean installation!</b>
 

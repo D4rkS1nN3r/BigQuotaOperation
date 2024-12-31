@@ -1,3 +1,40 @@
+## 1.4.0
+- Updated mods:
+	- CullFactory
+    - EnemySoundFixes
+    - FairAI
+    - Generic Interiors
+    - ImmersiveScrap
+    - LethalNetworkAPI
+    - Loadstone
+    - Mirage
+    - MrovLib
+    - OrbitRecharge
+    - ReservedItemSlotCore
+    - SellBodiesFixed
+    - TooManyEmotes
+    - Zombies
+
+- Removed mods:
+    - HidePlayerNames
+
+- Added mods:
+	- Boombox Sync Fix
+    - CaveDweller
+    - DungeonGenerationPlus
+    - FairBirds
+    - FairGiants
+    - LCAmmoCheck
+    - SCP999
+    - Slaughterhouse
+    - SlaughterhouseScraps
+    - StarlancerEnemyEscape
+    - VentSpawnFix
+
+## 1.3.2
+- Added mods as a dependency:
+	- LethalLib
+	
 ## 1.3.1
 - [BQO Vanilla Extended](https://thunderstore.io/c/lethal-company/p/RebelSqu4d/BQO_Vanilla_Extended/) modpack updated
 
